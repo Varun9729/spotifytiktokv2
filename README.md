@@ -2,7 +2,7 @@
 
 Music Application that is powered by the Spotify Web API and designed like a Tiktok style feed.
 
-<img src="Image/PlayListScreen.jpg" width="100" >     <img src="Image/TrackScreen.jpg" width="100" > 
+<img src="Images/PlayListScreen.jpg" width="100" >     <img src="Images/TrackScreen.jpg" width="100" > 
 
 
 
