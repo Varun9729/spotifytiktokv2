@@ -17,4 +17,4 @@ Music Application that is powered by the Spotify Web API and designed like a Tik
 ## Features
 - In-app access token generation provided for Spotify WebAPI authorization
 - Created a custom carousel of playlists that fetches weekly updated tracks
-- On selection of a Carousel card, the audio player plays the tracks from the relative playlist
+- On selection of a Playlist card, the audio player streams the tracks in order until the end of the playlist
